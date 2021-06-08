@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+It's me, alviankosim. A web developer based on Jakarta
+
+## Follow me on social media
+
+Follow me on Twitter [@alviankosim](twitter.com/alviankosim)
+. Or you can follow me on Instagram [@alviankosim](www.instagram.com/alviankosim)
+
+#### Enjoy :)
+
 <!--
 **alviankosim/alviankosim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
