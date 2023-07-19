@@ -8,9 +8,9 @@ It's me, alviankosim. A fullstack web developer based on Jakarta
 
 ## Follow me on social media
 
-Follow me on Twitter [@alviankosim](twitter.com/alviankosim)
-. Or you can connect with me on [LinkedIn](www.linkedin.com/in/mochammad-alvian-k-78a371112/)
-. Or you can follow me on Instagram [@alviankosim](www.instagram.com/alviankosim)
+Follow me on Twitter [@alviankosim](https://twitter.com/alviankosim)
+. Or you can connect with me on [LinkedIn](https://www.linkedin.com/in/mochammad-alvian-k-78a371112/)
+. Or you can follow me on Instagram [@alviankosim](https://www.instagram.com/alviankosim)
 
 #### Enjoy :)
 
