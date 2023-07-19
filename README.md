@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-It's me, alviankosim. A web developer based on Jakarta
+It's me, alviankosim. A fullstack web developer based on Jakarta
+
+- 🔭 I’m currently working on a tech startup company focusing in Omnichannel Platform
+- 🌱 I’m currently learning to be a better person, every day
+- 👯 I’m looking to collaborate on any project commercially/voluntarily
 
 ## Follow me on social media
 
 Follow me on Twitter [@alviankosim](twitter.com/alviankosim)
+. Or you can connect with me on [LinkedIn](www.linkedin.com/in/mochammad-alvian-k-78a371112/)
 . Or you can follow me on Instagram [@alviankosim](www.instagram.com/alviankosim)
 
 #### Enjoy :)
